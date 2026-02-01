@@ -1,0 +1,122 @@
+[
+  {
+    "id": "real-madrid",
+    "name": "Real Madrid",
+    "shortName": "RMA",
+    "country": "Spain",
+    "manager": "Jose Mourinho",
+    "isUserControlled": true,
+    "budget": 1000000000,
+    "color": "#FFFFFF",
+    "secondaryColor": "#FFD700",
+    "logoEmoji": "⚪👑"
+  },
+  {
+    "id": "barcelona",
+    "name": "Barcelona",
+    "shortName": "BAR",
+    "country": "Spain",
+    "manager": "Pep Guardiola",
+    "isUserControlled": true,
+    "budget": 1000000000,
+    "color": "#A50044",
+    "secondaryColor": "#004D98",
+    "logoEmoji": "🔵🔴"
+  },
+  {
+    "id": "bayern",
+    "name": "Bayern Munich",
+    "shortName": "BAY",
+    "country": "Germany",
+    "manager": "Hansi Flick",
+    "isUserControlled": true,
+    "budget": 1000000000,
+    "color": "#DC052D",
+    "secondaryColor": "#FFFFFF",
+    "logoEmoji": "🔴⚪"
+  },
+  {
+    "id": "man-city",
+    "name": "Manchester City",
+    "shortName": "MCI",
+    "country": "England",
+    "manager": "Mikel Arteta",
+    "isUserControlled": false,
+    "budget": 1000000000,
+    "color": "#6CABDD",
+    "secondaryColor": "#1C2C5B",
+    "logoEmoji": "🩵"
+  },
+  {
+    "id": "liverpool",
+    "name": "Liverpool",
+    "shortName": "LIV",
+    "country": "England",
+    "manager": "Arne Slot",
+    "isUserControlled": false,
+    "budget": 1000000000,
+    "color": "#C8102E",
+    "secondaryColor": "#F6EB61",
+    "logoEmoji": "🔴"
+  },
+  {
+    "id": "psg",
+    "name": "PSG",
+    "shortName": "PSG",
+    "country": "France",
+    "manager": "Luis Enrique",
+    "isUserControlled": false,
+    "budget": 1000000000,
+    "color": "#004170",
+    "secondaryColor": "#DA291C",
+    "logoEmoji": "🔵🔴"
+  },
+  {
+    "id": "juventus",
+    "name": "Juventus",
+    "shortName": "JUV",
+    "country": "Italy",
+    "manager": "Thiago Motta",
+    "isUserControlled": false,
+    "budget": 1000000000,
+    "color": "#000000",
+    "secondaryColor": "#FFFFFF",
+    "logoEmoji": "⬜⬛"
+  },
+  {
+    "id": "inter",
+    "name": "Inter Milan",
+    "shortName": "INT",
+    "country": "Italy",
+    "manager": "Simone Inzaghi",
+    "isUserControlled": false,
+    "budget": 1000000000,
+    "color": "#0068A8",
+    "secondaryColor": "#000000",
+    "logoEmoji": "🔵⚫"
+  },
+  {
+    "id": "atletico",
+    "name": "Atletico Madrid",
+    "shortName": "ATM",
+    "country": "Spain",
+    "manager": "Diego Simeone",
+    "isUserControlled": false,
+    "budget": 1000000000,
+    "color": "#CB3524",
+    "secondaryColor": "#FFFFFF",
+    "logoEmoji": "🔴⚪"
+  },
+  {
+    "id": "dortmund",
+    "name": "Borussia Dortmund",
+    "shortName": "BVB",
+    "country": "Germany",
+    "manager": "Nuri Sahin",
+    "isUserControlled": false,
+    "budget": 1000000000,
+    "color": "#FDE100",
+    "secondaryColor": "#000000",
+    "logoEmoji": "💛🖤"
+  }
+]
