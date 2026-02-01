@@ -2,6 +2,15 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## Important: Git Workflow
+
+**After making any code changes, always commit and push to GitHub.**
+
+```bash
+# Use gh CLI at: /tmp/gh_2.63.2_macOS_arm64/bin/gh
+# Repository: https://github.com/Bhuto1998/super-league-auction
+```
+
 ## Build & Development Commands
 
 ```bash
